@@ -1,0 +1,363 @@
+/*
+Theme Name: Skeleton
+Theme URI: http://joesteinkamp.com
+Description: This theme is a basic layout and a cleared stylesheet to be configured anyway.
+Version: 1.0
+Tags: blank, clear
+*/
+
+/* CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, input, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+body {
+	width: 100%;
+	line-height: 1;
+	color: black;
+	background: #ffffff;
+}
+ol, ul {
+	list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+/* END CSS Reset */
+
+/* General Styles 
+Description: All possible elements to prepare for content */
+
+body {
+	
+}
+input, textarea {
+	
+}
+hr {
+	
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+}
+h1 {
+	
+}
+h2 {
+	
+}
+h3 {
+	
+}
+h4 {
+	
+}
+table {
+	
+}
+th, dt {
+	
+}
+tr td {
+	
+}
+
+p {
+	
+}
+ul {
+	
+}
+ol {
+	
+}
+ol ol {
+	
+}
+ol ol ol {
+	
+}
+ol ol ol ol {
+	
+}
+ul ul, ol ol, ul ol, ol ul {
+	
+}
+dl {
+	
+}
+dt {
+	
+}
+dd {
+	
+}
+strong {
+	font-weight: bold;
+}
+cite, em,
+i {
+	font-style: italic;
+}
+big {
+	
+}
+ins {
+	
+}
+blockquote {
+	
+}
+blockquote cite, blockquote em, blockquote i {
+	
+}
+pre {
+	
+}
+abbr, acronym {
+	
+}
+sup, sub {
+	
+}
+sup {
+	
+}
+sub {
+	
+}
+button, input[type="submit"] {
+	
+}
+button:active, input[type="submit"]:active{
+	
+}
+input[type="text"], textarea {
+	
+}
+
+a, a:link {
+	
+}
+a:visited {
+	
+}
+a:active, a:hover {
+	
+}
+
+/* End General */
+
+/* Main Structure */
+#container {
+	
+}
+#header {
+	
+}
+
+#content {
+	
+}
+#sidebar {
+	
+}
+#footer {
+	
+}
+
+/* End Main Structure */
+
+/* ** Header **
+Main Elements: Logo container (Site Name & Slogan) 
+*/
+
+#logo {
+	
+}
+#logo h1 {
+	
+}
+#logo h1 a {
+	
+}
+#logo h1 a:hover {
+	
+}
+#logo h2 {
+	
+}
+
+	/* Navigation */
+	#header ul {
+	
+	}
+	#header li {
+	
+	}
+	#header li a {
+	
+	}
+	/* End Navigation */
+
+/* End Header */
+
+/* Content */
+
+.post {
+	
+}
+.post h2 {
+	
+}
+.post h2 a {
+	
+}
+.post h2 a:hover {
+	
+}
+.post p.postinfo {
+	
+}
+.post p.postinfo a {
+	
+}
+.post p.postinfo a:hover {
+	
+}
+.post a.more-link {
+	
+}
+.post a.more-link:hover {
+	
+}
+
+
+	/* Comment Section */
+
+	.comment {
+	
+	}
+	.comment .even {
+	
+	}
+	.comment .odd {
+	
+	}
+	.comment-author a {
+	
+	}
+	.comment-author .avatar {
+	
+	}
+	.comment-meta {
+	
+	}
+	a.comment-reply-link {
+	
+	}
+	a.comment-reply-link:hover {
+	
+	}
+
+
+	#respond {
+	
+	}
+	#respond h3.reply-title {
+	
+	}
+	#respond form {
+	
+	}
+	#respond label {
+	
+	}
+	#respond textarea, #respond input {
+	
+	}
+	#respond span.required {
+	
+	}
+	#respond .form-allowed-tags {
+	
+	}
+
+	/* End Comment Section */
+
+
+/* End Content */
+
+
+/* ** Sidebar ** 
+Main Elements: h1 as header of widgets
+Needed: All elements that will be in the sidebar. Example: <p>, <form>
+*/
+
+#sidebar h1 {
+	
+}
+
+
+/* Sidebar Widget Container */
+#sidebar .box {
+	
+}
+
+
+/* End Sidebar */
+
+/* ** Footer  **
+Main Elements: Navigation unordered list & paragraph for content.
+*/
+
+#footer ul {
+	
+}
+#footer li {
+	
+}
+#footer li a {
+	
+} 
+#footer li a:hover {
+	
+}
+#footer p {
+	
+}
+
+/* End Footer */
